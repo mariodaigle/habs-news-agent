@@ -64,5 +64,21 @@ jobs:
             echo "No new digest this run (likely the postgame slot with no game today) -- nothing to commit."
             exit 0
           fi
+
           git commit -m "Digest: ${{ steps.slot.outputs.slot }} $(date -u +%Y-%m-%d)"
-          git push
+
+          # The checkout can go stale if something else pushed to main between
+          # this job starting and this step running (e.g. a manual push, or
+          # another run). Retry with a rebase on top of whatever's new instead
+          # of failing outright -- this is just a digest file, so a rebase
+          # here is safe and won't produce a real conflict in practice.
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt) -- fetching and rebasing onto latest main, then retrying..."
+            git fetch origin main
+            git rebase origin/main
+          done
+          echo "Push still failing after 3 attempts -- giving up."
+          exit 1
