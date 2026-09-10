@@ -1,0 +1,68 @@
+name: Habs Digest
+
+on:
+  schedule:
+    # All times UTC. Halifax (America/Halifax) is UTC-3 in the summer (ADT)
+    # and UTC-4 in the winter (AST) -- GitHub Actions cron does NOT shift for
+    # DST, so these three fixed UTC times will each drift by one hour twice a
+    # year (mid-March and early November) until you update them by hand.
+    # As set, tuned for ADT (UTC-3):
+    - cron: "0 11 * * *"  # ~08:00 America/Halifax -- morning digest (overnight news/rumours)
+    - cron: "0 20 * * *"  # ~17:00 America/Halifax -- evening digest (pregame/lineup news)
+    - cron: "0 2 * * *"   # ~23:00 America/Halifax -- postgame recap (only writes if MTL played)
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "Run slot to simulate (morning, evening, postgame)"
+        required: false
+        default: "morning"
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.24"
+
+      - name: Determine run slot
+        id: slot
+        run: |
+          if [ -n "${{ github.event.inputs.slot }}" ]; then
+            echo "slot=${{ github.event.inputs.slot }}" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          case "${{ github.event.schedule }}" in
+            "0 11 * * *") echo "slot=morning" >> "$GITHUB_OUTPUT" ;;
+            "0 20 * * *") echo "slot=evening" >> "$GITHUB_OUTPUT" ;;
+            "0 2 * * *")  echo "slot=postgame" >> "$GITHUB_OUTPUT" ;;
+            *)            echo "slot=manual" >> "$GITHUB_OUTPUT" ;;
+          esac
+
+      - name: Build
+        run: go build -o habs-agent .
+
+      - name: Run digest agent
+        env:
+          RUN_SLOT: ${{ steps.slot.outputs.slot }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: ${{ secrets.CLAUDE_MODEL }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: ./habs-agent
+
+      - name: Commit digest if one was written
+        run: |
+          git config user.name "habs-news-agent"
+          git config user.email "actions@users.noreply.github.com"
+          git add digests/ index.md
+          if git diff --cached --quiet; then
+            echo "No new digest this run (likely the postgame slot with no game today) -- nothing to commit."
+            exit 0
+          fi
+          git commit -m "Digest: ${{ steps.slot.outputs.slot }} $(date -u +%Y-%m-%d)"
+          git push
