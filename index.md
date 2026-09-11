@@ -10,5 +10,6 @@ Automated Montreal Canadiens news digest -- trades/rumours, injuries/lineup, gam
 
 ## Archive
 
+- [2026-09-11-morning](digests/2026-09-11-morning.html)
 - [2026-09-10-morning](digests/2026-09-10-morning.html)
 - [2026-09-10-evening](digests/2026-09-10-evening.html)
