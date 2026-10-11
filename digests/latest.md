@@ -1,10 +1,11 @@
-# Habs Digest — 2026-10-11 (morning)
+# Habs Digest — 2026-10-11 (evening)
 
-_Generated 2026-10-11T16:27:48Z_
+_Generated 2026-10-11T23:19:01Z_
 
 _Standing: 2-2-1, 5 pts, 5 GP, conf rank 10, streak W1 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
 
 ### Game Recap & Performance
+- [Bottom Six Minutes: Do we want Dylan Larkin?](https://www.habseyesontheprize.com/dylan-larkin-trade-rumours-canadiens-red-wings-bell-centre-habs-news/) — Habs Eyes on the Prize
 - [Canadiens vs. Red Wings Top Six Minutes: Jacob Fowler goes six-for-six in the shootout](https://www.habseyesontheprize.com/canadiens-red-wings-2026-10-10-top-six-minutes-recap-3-stars-jacob-fowler-goes-six-for-six-in-the-shootout-alexandre-texier-goal-disallowed-zachary-bolduc-cole-caufield/) — Habs Eyes on the Prize
 - [Canadiens Sick Postgame: Fowler Clutch; Habs Win In SO](https://www.yardbarker.com/nhl/articles/canadiens_sick_postgame_fowler_clutch_habs_win_in_so/s1_17468_44414372) — Yardbarker
 - [Canadiens Sick Postgame: Jacob Fowler Clutch; Habs Win In SO](https://www.yardbarker.com/nhl/articles/canadiens_sick_postgame_jacob_fowler_clutch_habs_win_in_so/s1_17468_44413929) — Yardbarker
@@ -12,10 +13,13 @@ _Standing: 2-2-1, 5 pts, 5 GP, conf rank 10, streak W1 (most recent record on fi
 
 ### Trades & Roster Moves
 - [Montreal Canadiens trade Jayden Struble to Nashville for second-round pick](https://www.habseyesontheprize.com/montreal-canadiens-trade-jayden-struble-to-nashville-for-second-round-pick-predators-nhl/) — Habs Eyes on the Prize
+- [Jayden Struble: More than 19 minutes of playing time](https://www.yardbarker.com/nhl/articles/jayden_struble_more_than_19_minutes_of_playing_time/s1_17387_44416185) — Yardbarker
 
 ### Injuries & Lineup
-- [Canadiens vs. Predators: Game thread, lines, and how to watch](https://www.habseyesontheprize.com/canadiens-predators-2026-10-08-game-thread-lines-and-how-to-watch-tv-listings-online-stream/) — Habs Eyes on the Prize
 - [Who should back up Rangers goalie Dylan Garand following Igor Shesterkin injury?](https://www.yardbarker.com/nhl/articles/who_should_back_up_rangers_goalie_dylan_garand_following_igor_shesterkin_injury/s1_13132_44414922) — Yardbarker
+
+### Prospects & Laval Rocket (AHL)
+- [David Reinbacher has been playing well since Jayden Struble left](https://www.yardbarker.com/nhl/articles/david_reinbacher_has_been_playing_well_since_jayden_struble_left/s1_17387_44416911) — Yardbarker
 
 ### Other Habs News
 - [Sunday Habs Headlines: Zachary Bolduc holds up his end during slow start](https://www.habseyesontheprize.com/habs-headlines-zachary-bolduc-holds-up-his-end-during-slow-start-canadiens-early-struggles-martin-st-louis-lyle-odelein-arber-xhekai-igor-shesterkin-calgary-flames-sarah-nurse-frank-nazar/) — Habs Eyes on the Prize
