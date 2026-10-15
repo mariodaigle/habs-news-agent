@@ -1,13 +1,14 @@
-# Habs Digest — 2026-10-15 (morning)
+# Habs Digest — 2026-10-15 (evening)
 
-_Generated 2026-10-15T15:24:38Z_
+_Generated 2026-10-15T22:47:18Z_
 
 _Standing: 3-3-1, 7 pts, 7 GP, conf rank 11, streak L1 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
 
 ### Game Recap & Performance
 - [Canadiens vs. Sabres Top Six Minutes: Montreal recovers for a shootout win](https://www.habseyesontheprize.com/canadiens-sabres-2026-10-13-top-six-minutes-recap-3-stars-lane-hutson-goal-cole-caufield-josh-anderson-shootout-win/) — Habs Eyes on the Prize
-- [Montreal Canadiens Sick Postgame: Habs Late Comeback Falls Short](https://www.yardbarker.com/nhl/articles/montreal_canadiens_sick_postgame_habs_late_comeback_falls_short/s1_17468_44429871) — Yardbarker
-- [Another poor performance by Jakub Dobes sinks the CH](https://www.yardbarker.com/nhl/articles/another_poor_performance_by_jakub_dobes_sinks_the_ch/s1_17387_44429731) — Yardbarker
+- [Josh Anderson’s Future in Montreal Dependent on Big Trade](https://www.yardbarker.com/nhl/articles/josh_andersons_future_in_montreal_dependent_on_big_trade/s1_16454_44433297) — Yardbarker
+- [Alexandre Carrier: The Canadiens need to resolve his situation as soon as possible](https://www.yardbarker.com/nhl/articles/alexandre_carrier_the_canadiens_need_to_resolve_his_situation_as_soon_as_possible/s1_17387_44433172) — Yardbarker
+- [Jakub Dobes off to slow start for Canadiens](https://www.yardbarker.com/nhl/articles/jakub_dobes_off_to_slow_start_for_canadiens/s1_16958_44433128) — Yardbarker
 
 ### Trades & Roster Moves
 - [Canadiens Have Trade Offer Ready to Get Over Larkin Finish Line](https://www.yardbarker.com/nhl/articles/canadiens_have_trade_offer_ready_to_get_over_larkin_finish_line/s1_16454_44431521) — Yardbarker
@@ -15,8 +16,9 @@ _Standing: 3-3-1, 7 pts, 7 GP, conf rank 11, streak L1 (most recent record on fi
 ### Injuries & Lineup
 - [Montreal Canadiens recall David Reinbacher](https://www.habseyesontheprize.com/montreal-canadiens-recall-david-reinbacher-habs-laval-rocket-defence/) — Habs Eyes on the Prize
 - [Mike Matheson out day-to-day with lower-body injury](https://www.habseyesontheprize.com/mike-matheson-out-day-to-day-with-lower-body-injury-montreal-canadiens-kapanen-habs/) — Habs Eyes on the Prize
-- [Oliver Kapanen has a good chance of playing on Saturday](https://www.yardbarker.com/nhl/articles/oliver_kapanen_has_a_good_chance_of_playing_on_saturday/s1_17387_44431514) — Yardbarker
-- [Don’t think this threesome will end easily](https://www.yardbarker.com/nhl/articles/dont_think_this_threesome_will_end_easily/s1_17387_44429552) — Yardbarker
+
+### Prospects & Laval Rocket (AHL)
+- [Michael Hage will participate in the upcoming Spengler Cup (but not with Canada)](https://www.yardbarker.com/nhl/articles/michael_hage_will_participate_in_the_upcoming_spengler_cup_but_not_with_canada/s1_17387_44432875) — Yardbarker
 
 ### Other Habs News
 - [Thursday Habs Headlines: Healthy Kaiden Guhle goes beast mode](https://www.habseyesontheprize.com/habs-headlines-healthy-kaiden-ghule-goes-beast-mode-dylan-larkin-david-reinbacher-zachary-bolduc-alex-debrincat-contract-edmonton-oilers-daylight-savings-emergency-goalies/) — Habs Eyes on the Prize
@@ -26,7 +28,7 @@ _Standing: 3-3-1, 7 pts, 7 GP, conf rank 11, streak L1 (most recent record on fi
 - [Canadiens @ Capitals: Game preview, start time, Tale of the Tape, and how to watch](https://www.habseyesontheprize.com/canadiens-capitals-2026-10-14-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/) — Habs Eyes on the Prize
 - [Wednesday Habs Headlines: A Franco connection](https://www.habseyesontheprize.com/montreal-canadiens-news-french-line-phillip-danault-zachary-bolduc-alexandre-texier-kaiden-guhle-mike-matheson-connor-hellebuyck-trade-request-jordan-staal-injury/) — Habs Eyes on the Prize
 - [Canadiens vs. Sabres: Game thread, lines, and how to watch](https://www.habseyesontheprize.com/canadiens-sabres-2026-10-13-game-thread-lines-and-how-to-watch-tv-listings-online-stream/) — Habs Eyes on the Prize
-- [Martin St-Louis: 'It’s always hard to win when you give up five goals.'](https://www.yardbarker.com/nhl/articles/martin_st_louis_its_always_hard_to_win_when_you_give_up_five_goals/s1_17387_44431334) — Yardbarker
+- [Lariviere: Jakub Dobes Is Not Positioning Himself Well](https://www.yardbarker.com/nhl/articles/lariviere_jakub_dobes_is_not_positioning_himself_well/s1_17468_44433593) — Yardbarker
 
 
 
