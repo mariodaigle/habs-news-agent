@@ -1,6 +1,6 @@
-# Habs Digest — 2026-10-19 (morning)
+# Habs Digest — 2026-10-19 (evening)
 
-_Generated 2026-10-19T17:15:39Z_
+_Generated 2026-10-19T23:12:54Z_
 
 _Standing: 4-3-1, 9 pts, 8 GP, conf rank 10, streak W1 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
 
@@ -8,16 +8,15 @@ _Standing: 4-3-1, 9 pts, 8 GP, conf rank 10, streak W1 (most recent record on fi
 - [Rocket @ Senators recap & highlights: Mittelstadt and Mešár lead comeback](https://www.habseyesontheprize.com/rocket-senators-recap-highlights-mittelstadt-and-mesar-lead-comeback-laval-ahl-habs-prospects/) — Habs Eyes on the Prize
 
 ### Trades & Roster Moves
+- [Canadiens NHL Trade Target: Owen Tippett](https://www.yardbarker.com/nhl/articles/canadiens_nhl_trade_target_owen_tippett/s1_17468_44448653) — Yardbarker
 - [RUMOR | The Canadiens wanted to use Rickard Rakell to acquire Kirill Marchenko](https://www.yardbarker.com/nhl/articles/rumor_the_canadiens_wanted_to_use_rickard_rakell_to_acquire_kirill_marchenko/s1_17387_44447304) — Yardbarker
-- [Kirby Dach: Marco D’Amico believes he will eventually be traded](https://www.yardbarker.com/nhl/articles/kirby_dach_marco_damico_believes_he_will_eventually_be_traded/s1_17387_44445062) — Yardbarker
-- [Alex Newhook’s name is starting to get around](https://www.yardbarker.com/nhl/articles/alex_newhooks_name_is_starting_to_get_around/s1_17387_44444162) — Yardbarker
 
 ### Injuries & Lineup
 - [Bottom Six Minutes: Are we worried about Jakub Dobeš?](https://www.habseyesontheprize.com/bottom-six-minutes-are-we-worried-about-jakub-dobes-habs-news/) — Habs Eyes on the Prize
 - [Remember When … Jake Evans’s first playoff goal turned ugly](https://www.habseyesontheprize.com/remember-when-jake-evans-first-playoff-goal-turned-ugly-mark-scheifele-winnipeg-jets-hit-suspension-2021-stanley-cup-playoffs/) — Habs Eyes on the Prize
-- [Lariviere: What A Fully Healthy Montreal Canadiens Roster Could Look Like](https://www.yardbarker.com/nhl/articles/lariviere_what_a_fully_healthy_montreal_canadiens_roster_could_look_like/s1_17468_44444511) — Yardbarker
 
 ### Prospects & Laval Rocket (AHL)
+- [Michael Hage: Second-leading scorer in the NCAA](https://www.yardbarker.com/nhl/articles/michael_hage_second_leading_scorer_in_the_ncaa/s1_17387_44448135) — Yardbarker
 - [Mittelstadt: The Canadian may already be outperforming Engstrom and Reinbacher in Laval](https://www.yardbarker.com/nhl/articles/mittelstadt_the_canadian_may_already_be_outperforming_engstrom_and_reinbacher_in_laval/s1_17387_44446726) — Yardbarker
 
 ### Other Habs News
@@ -28,7 +27,7 @@ _Standing: 4-3-1, 9 pts, 8 GP, conf rank 10, streak W1 (most recent record on fi
 - [Canadiens vs. Sabres: Game thread, lines, and how to watch](https://www.habseyesontheprize.com/canadiens-sabres-2026-10-17-game-thread-lines-and-how-to-watch-tv-listings-online-stream/) — Habs Eyes on the Prize
 - [Canadiens vs. Sabres: Game preview, start time, Tale of the Tape, and how to watch](https://www.habseyesontheprize.com/canadiens-sabres-2026-10-17-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/) — Habs Eyes on the Prize
 - [Saturday Habs Headlines: A plea for more discipline](https://www.habseyesontheprize.com/montreal-canadiens-news-penalty-calls-top-line-juraj-slafkovsky-therapy-day-florian-xhekaj-injury-timeline-josh-anderson-offence-jacob-fowler-starter-jakub-dobes-patrice-bergeron-nick-suzuki-quotes/) — Habs Eyes on the Prize
-- [Practice: New Uniform, Same Absences](https://www.yardbarker.com/nhl/articles/practice_new_uniform_same_absences/s1_17387_44447054) — Yardbarker
+- [Pugachyov is struggling, Hellebuyck is giving up (a lot) of goals, and Kreider doesn’t like outdoor games](https://www.yardbarker.com/nhl/articles/pugachyov_is_struggling_hellebuyck_is_giving_up_a_lot_of_goals_and_kreider_doesnt_like_outdoor_games/s1_17387_44448787) — Yardbarker
 
 
 
