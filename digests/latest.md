@@ -1,29 +1,37 @@
-# Habs Digest — 2026-10-23 (evening)
+# Habs Digest — 2026-10-24 (morning)
 
-_Generated 2026-10-23T22:45:17Z_
+_Generated 2026-10-24T14:10:32Z_
 
-_Standing: 4-3-2, 10 pts, 9 GP, conf rank 12, streak OT1 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
+_Standing: 5-3-2, 12 pts, 10 GP, conf rank 9, streak W1 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
 
-### Trades & Roster Moves
-- [A $2 million game for Chris Kreider, with Anthony Marcotte providing commentary, and the Jakub Dobes case](https://www.yardbarker.com/nhl/articles/a_2_million_game_for_chris_kreider_with_anthony_marcotte_providing_commentary_and_the_jakub_dobes_case/s1_17387_44463778) — Yardbarker
+### Game Recap & Performance
+- [Rocket vs. Hammers recap: Laval claims top spot in AHL with seventh straight victory](https://www.habseyesontheprize.com/rocket-hammers-2026-10-23-recap-score-highlights-laval-claims-top-spot-in-ahl-with-seventh-straight-victory-sasha-pastujov-luke-mittlestadt-david-reinbacher/) — Habs Eyes on the Prize
+- [Rocket vs. Crunch recap & highlights: Laval’s offence powers sixth straight win](https://www.habseyesontheprize.com/rocket-crunch-2026-10-21-recap-score-highlights-lavals-offence-powers-sixth-straight-win-reilly-walsh-two-goals-sasha-pastujov-owen-beck-david-reinbacher/) — Habs Eyes on the Prize
+- [3 Takeaways From the Canadiens’ 4-1 Win Over the Blackhawks](https://www.yardbarker.com/nhl/articles/3_takeaways_from_the_canadiens_4_1_win_over_the_blackhawks/s1_16448_44467763) — Yardbarker
+- [Canadiens Sick Postgame: Evans, Fowler Shine In 4-1 Win Over Blackhawks](https://www.yardbarker.com/nhl/articles/canadiens_sick_postgame_evans_fowler_shine_in_4_1_win_over_blackhawks/s1_17468_44467424) — Yardbarker
+- [Canadiens Sick Postgame: Evans, Fowler Shine In 3-1 Win Over Blackhawks](https://www.yardbarker.com/nhl/articles/canadiens_sick_postgame_evans_fowler_shine_in_3_1_win_over_blackhawks/s1_17468_44466598) — Yardbarker
 
 ### Injuries & Lineup
-- [Mike Matheson Back For Canadiens, Fowler Starts](https://www.yardbarker.com/nhl/articles/mike_matheson_back_for_canadiens_fowler_starts/s1_17468_44465762) — Yardbarker
-- [Who Are the Montreal Canadiens Without Nick Suzuki?](https://www.yardbarker.com/nhl/articles/who_are_the_montreal_canadiens_without_nick_suzuki/s1_17659_44464499) — Yardbarker
-- [Exclusive Photos: Nick Suzuki Has (Already) Started Skating Again](https://www.yardbarker.com/nhl/articles/exclusive_photos_nick_suzuki_has_already_started_skating_again/s1_17387_44464289) — Yardbarker
-- [Nick Suzuki’s Absence Will Give the Canadiens Their Biggest Test](https://www.yardbarker.com/nhl/articles/nick_suzukis_absence_will_give_the_canadiens_their_biggest_test/s1_16448_44464098) — Yardbarker
+- [Canadiens @ Blackhawks: Game thread, lines, and how to watch](https://www.habseyesontheprize.com/canadiens-blackhawks-2026-10-23-game-thread-lines-and-how-to-watch-tv-listings-online-stream/) — Habs Eyes on the Prize
+- [Nick Suzuki out 2-4 weeks, Canadiens recall Owen Beck](https://www.habseyesontheprize.com/montreal-canadiens-nick-suzuki-injury-recall-owen-beck-habs/) — Habs Eyes on the Prize
+- [3 Centres the Canadiens Should Target to Overcome Suzuki’s Injury](https://www.yardbarker.com/nhl/articles/3_centres_the_canadiens_should_target_to_overcome_suzukis_injury/s1_16448_44467766) — Yardbarker
+
+### Prospects & Laval Rocket (AHL)
+- [Montreal Canadiens send Owen Beck, David Reinbacher back to Laval](https://www.habseyesontheprize.com/montreal-canadiens-send-owen-beck-david-reinbacher-back-to-laval/) — Habs Eyes on the Prize
 
 ### Other Habs News
-- [Marco Marciano: His official title with the CH has changed](https://www.yardbarker.com/nhl/articles/marco_marciano_his_official_title_with_the_ch_has_changed/s1_17387_44465866) — Yardbarker
-- [The CH’s up-and-comers could push Kaiden Guhle or Mike Matheson out the door](https://www.yardbarker.com/nhl/articles/the_chs_up_and_comers_could_push_kaiden_guhle_or_mike_matheson_out_the_door/s1_17387_44465246) — Yardbarker
-- [Mike Matheson and Jacob Fowler (as the starting pitcher) will play tonight](https://www.yardbarker.com/nhl/articles/mike_matheson_and_jacob_fowler_as_the_starting_pitcher_will_play_tonight/s1_17387_44464917) — Yardbarker
-- [Jakub Dobes: The Montreal Canadiens’ Communications Department’s Nightmare](https://www.yardbarker.com/nhl/articles/jakub_dobes_the_montreal_canadiens_communications_departments_nightmare/s1_17387_44464540) — Yardbarker
-- [Alexandre Carrier wants to stay in Montreal, but the Habs still haven’t made a move](https://www.yardbarker.com/nhl/articles/alexandre_carrier_wants_to_stay_in_montreal_but_the_habs_still_havent_made_a_move/s1_17387_44463934) — Yardbarker
+- [Saturday Habs Headlines: Alexandre Carrier’s stout defensive game](https://www.habseyesontheprize.com/montreal-canadiens-news-alexandre-carrier-defence-outdoor-game-heritage-classic-jake-evans-doug-jarvis-ironman-nick-suzuki-injury-connor-hellebuyck-trade-connor-mcdavid-reaction/) — Habs Eyes on the Prize
+- [Canadiens @ Blackhawks Top Six Minutes: The first multi-goal win of the season](https://www.habseyesontheprize.com/canadiens-blackhawks-2026-10-23-top-six-minutes-recap-3-stars-jake-evans-two-goals-kaiden-guhle-jacob-fowler-win/) — Habs Eyes on the Prize
+- [Canadiens @ Blackhawks: Game preview, start time, Tale of the Tape, and how to watch](https://www.habseyesontheprize.com/canadiens-blackhawks-2026-10-23-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/) — Habs Eyes on the Prize
+- [Friday Habs Headlines: A promotion for Oliver Kapanen?](https://www.habseyesontheprize.com/montreal-canadiens-news-oliver-kapanen-promotion-nick-suzuki-injury-jakub-dobes-start-landon-dupont-2027-nhl-draft-connor-hellebuyck-trade-rumours-carolina-hurricanes/) — Habs Eyes on the Prize
+- [Thursday Habs Headlines: The cost of losing control](https://www.habseyesontheprize.com/habs-headlines-the-cost-of-losing-control-jakub-dobes-cole-caufiled-martin-st-louis-blunders-connor-mcdavid-heritage-classic-brady-tkachuk-ottawa-senators/) — Habs Eyes on the Prize
+- [Nick SuzuWHO?: The CH’s centers made everyone forget the captain’s absence](https://www.yardbarker.com/nhl/articles/nick_suzuwho_the_chs_centers_made_everyone_forget_the_captains_absence/s1_17387_44467820) — Yardbarker
+- [Blackhawks Fall to Canadiens 4-1 as Jake Evans Scores Twice](https://www.yardbarker.com/nhl/articles/blackhawks_fall_to_canadiens_4_1_as_jake_evans_scores_twice/s1_16931_44467156) — Yardbarker
+- [Victory: The Canadiens finally hold a 3-1 lead](https://www.yardbarker.com/nhl/articles/victory_the_canadiens_finally_hold_a_3_1_lead/s1_17387_44466579) — Yardbarker
 
 
 
 ---
 _Source warnings this run (non-fatal):_
-- parsing Habs Eyes on the Prize: XML syntax error on line 93: element <link> closed by </head>
 - fetching r/Habs: HTTP 403 (reddit's public JSON endpoint is unauthenticated and frequently blocks bots -- this is expected to fail sometimes)
 - Anthropic API error (authentication_error): invalid x-api-key -- check CLAUDE_MODEL is a current model id at docs.anthropic.com/en/docs/about-claude/models
