@@ -1,6 +1,6 @@
-# Habs Digest — 2026-10-27 (morning)
+# Habs Digest — 2026-10-27 (evening)
 
-_Generated 2026-10-27T16:06:42Z_
+_Generated 2026-10-27T23:21:30Z_
 
 _Standing: 6-3-2, 14 pts, 11 GP, conf rank 8, streak W2 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
 
@@ -8,22 +8,23 @@ _Standing: 6-3-2, 14 pts, 11 GP, conf rank 8, streak W2 (most recent record on f
 - [Bottom Six Minutes: Jacob Fowler dominates the Heritage Classic](https://www.habseyesontheprize.com/canadiens-vs-jets-heritage-classic-highlights-score-recap-jacob-fowler-habs-news/) — Habs Eyes on the Prize
 - [2026 Heritage Classic Top Six Minutes: Jacob Fowler leads Montreal’s win over Winnipeg](https://www.habseyesontheprize.com/2026-10-25-heritage-classic-top-six-minutes-score-highlights-3-stars-jacob-fowler-leads-montreals-win-over-winnipeg-lane-hutson-goal-kaiden-guhle-game-winner/) — Habs Eyes on the Prize
 - [Rocket vs. Hammers recap & highlights: Laval handed its second loss of the season](https://www.habseyesontheprize.com/rocket-hammers-2026-10-24-recap-score-highlights-laval-handed-its-second-loss-of-the-season-dillan-bentley-goal-luke-mittelstadt-david-reinbacher/) — Habs Eyes on the Prize
-- [Top 3: The Rangers Need Samuel Montembeault](https://www.yardbarker.com/nhl/articles/top_3_the_rangers_need_samuel_montembeault/s1_17387_44479286) — Yardbarker
 
 ### Trades & Roster Moves
 - [2026 Heritage Classic: Canadiens @ Jets — Game preview, start time, Tale of the Tape, and how to watch](https://www.habseyesontheprize.com/2026-10-25-heritage-classic-canadiens-jets-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/) — Habs Eyes on the Prize
-- [Dylan Larkin: A Divisional Rival Hot on the Canadiens’ Heels](https://www.yardbarker.com/nhl/articles/dylan_larkin_a_divisional_rival_hot_on_the_canadiens_heels/s1_17387_44479605) — Yardbarker
-- ['A two-year contract for Phillip Danault would make a lot of sense'](https://www.yardbarker.com/nhl/articles/a_two_year_contract_for_phillip_danault_would_make_a_lot_of_sense/s1_17387_44477910) — Yardbarker
+- ['If Quinton Byfield becomes available, the Canadiens will definitely be interested.'](https://www.yardbarker.com/nhl/articles/if_quinton_byfield_becomes_available_the_canadiens_will_definitely_be_interested/s1_17387_44481751) — Yardbarker
+
+### Prospects & Laval Rocket (AHL)
+- [Filip Mesar has been a different player since Pascal Vincent left](https://www.yardbarker.com/nhl/articles/filip_mesar_has_been_a_different_player_since_pascal_vincent_left/s1_17387_44481320) — Yardbarker
 
 ### Other Habs News
+- [Canadiens @ Blues: Game thread, lines, and how to watch](https://www.habseyesontheprize.com/canadiens-blues-2026-10-27-game-thread-lines-and-how-to-watch-tv-listings-online-stream/) — Habs Eyes on the Prize
 - [Canadiens @ Blues: Game preview, start time, Tale of the Tape, and how to watch](https://www.habseyesontheprize.com/canadiens-blues-2026-10-27-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/) — Habs Eyes on the Prize
 - [Tuesday Habs Headlines: Rising Star](https://www.habseyesontheprize.com/habs-headlines-jacob-fowler-continues-to-impress-phillip-danault-invaluable-contributions/) — Habs Eyes on the Prize
 - [Monday Habs Headlines: Old memories at the Heritage Classic](https://www.habseyesontheprize.com/habs-headlines-old-memories-at-the-heritage-classic-winnipeg-jets-martin-st-louis-family-first-jake-evans-blog-nhl-atlantic-division-connor-hellebuyck-zach-werenski/) — Habs Eyes on the Prize
 - [2026 Heritage Classic: Canadiens @ Jets — Game thread, lines, and how to watch](https://www.habseyesontheprize.com/2026-10-25-heritage-classic-canadiens-jets-game-thread-lines-and-how-to-watch-tv-listings-online-stream/) — Habs Eyes on the Prize
 - [Sunday Habs Headlines: Canadiens begin Heritage Classic weekend with Alumni win](https://www.habseyesontheprize.com/montreal-canadiens-news-2026-heritage-classic-alumni-game-winnipeg-jets-paul-byron-guillaume-latendresse-andrei-markov-jaroslav-halak-saku-koivu-jersey-retirement-connor-helebuyck-carolina-hurricanes/) — Habs Eyes on the Prize
-- [Bottom Six Minutes: Sans Suzuki, Jake Evans steps up for Montreal](https://www.habseyesontheprize.com/canadiens-blackhawks-recap-score-highlights-nick-suzuki-injury-jake-evans-habs-news/) — Habs Eyes on the Prize
-- [The Jacob Fowler era has arrived in Montreal](https://www.yardbarker.com/nhl/articles/the_jacob_fowler_era_has_arrived_in_montreal/s1_16958_44480174) — Yardbarker
-- [Elias Pettersson wouldn’t want to come play in Montreal](https://www.yardbarker.com/nhl/articles/elias_pettersson_wouldnt_want_to_come_play_in_montreal/s1_17387_44480145) — Yardbarker
+- [Hutson-Dobson: The NHL’s Second-Best Offensive Pair](https://www.yardbarker.com/nhl/articles/hutson_dobson_the_nhls_second_best_offensive_pair/s1_17387_44482070) — Yardbarker
+- [Canadiens: A first look at the Hometown Remix jersey is circulating](https://www.yardbarker.com/nhl/articles/canadiens_a_first_look_at_the_hometown_remix_jersey_is_circulating/s1_17387_44481544) — Yardbarker
 
 
 
