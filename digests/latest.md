@@ -1,19 +1,19 @@
-# Habs Digest — 2026-10-28 (morning)
+# Habs Digest — 2026-10-28 (evening)
 
-_Generated 2026-10-28T16:53:52Z_
+_Generated 2026-10-28T23:44:23Z_
 
 _Standing: 7-3-2, 16 pts, 12 GP, conf rank 4, streak W3 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
 
 ### Game Recap & Performance
 - [Bottom Six Minutes: Jacob Fowler dominates the Heritage Classic](https://www.habseyesontheprize.com/canadiens-vs-jets-heritage-classic-highlights-score-recap-jacob-fowler-habs-news/) — Habs Eyes on the Prize
 - [2026 Heritage Classic Top Six Minutes: Jacob Fowler leads Montreal’s win over Winnipeg](https://www.habseyesontheprize.com/2026-10-25-heritage-classic-top-six-minutes-score-highlights-3-stars-jacob-fowler-leads-montreals-win-over-winnipeg-lane-hutson-goal-kaiden-guhle-game-winner/) — Habs Eyes on the Prize
-- [Jacob Fowler Has Officially Arrived](https://www.yardbarker.com/nhl/articles/jacob_fowler_has_officially_arrived/s1_17352_44484962) — Yardbarker
-- [3 Takeaways From the Blues’ 2-0 Loss to the Canadiens](https://www.yardbarker.com/nhl/articles/3_takeaways_from_the_blues_2_0_loss_to_the_canadiens/s1_16448_44484464) — Yardbarker
-- [Canadiens Sick Postgame: Fowler (46 saves) Makes History in 2-0 Win Over Blues](https://www.yardbarker.com/nhl/articles/canadiens_sick_postgame_fowler_46_saves_makes_history_in_2_0_win_over_blues/s1_17468_44482718) — Yardbarker
-- [Rookie Jacob Fowler's career-high 46 saves help Canadiens blank Blues](https://www.yardbarker.com/nhl/articles/rookie_jacob_fowlers_career_high_46_saves_help_canadiens_blank_blues/s1_17050_44482649) — Yardbarker
+- [Jacob Fowler won’t play tomorrow (despite his impressive shutout last night)](https://www.yardbarker.com/nhl/articles/jacob_fowler_wont_play_tomorrow_despite_his_impressive_shutout_last_night/s1_17387_44485636) — Yardbarker
 
 ### Trades & Roster Moves
-- [What Could the Canadiens Offer the Red Wings for Dylan Larkin?](https://www.yardbarker.com/nhl/articles/what_could_the_canadiens_offer_the_red_wings_for_dylan_larkin/s1_16448_44484461) — Yardbarker
+- [Bolduc breaks a window with a shot, Gally nears the end, and a new contract for McKenna](https://www.yardbarker.com/nhl/articles/bolduc_breaks_a_window_with_a_shot_gally_nears_the_end_and_a_new_contract_for_mckenna/s1_17387_44486133) — Yardbarker
+
+### Injuries & Lineup
+- [Canadiens Practice Report: Jakub Dobes To Start vs Stars; Lineup Changes](https://www.yardbarker.com/nhl/articles/canadiens_practice_report_jakub_dobes_to_start_vs_stars_lineup_changes/s1_17468_44485827) — Yardbarker
 
 ### Other Habs News
 - [Bottom Six Minutes: A statement game from Jacob Fowler](https://www.habseyesontheprize.com/canadiens-vs-blues-highlights-score-recap-jacob-fowler-shutout-habs-news/) — Habs Eyes on the Prize
