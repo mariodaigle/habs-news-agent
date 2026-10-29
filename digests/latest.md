@@ -1,29 +1,25 @@
-# Habs Digest — 2026-10-28 (evening)
+# Habs Digest — 2026-10-29 (morning)
 
-_Generated 2026-10-28T23:44:23Z_
+_Generated 2026-10-29T17:11:50Z_
 
-_Standing: 7-3-2, 16 pts, 12 GP, conf rank 4, streak W3 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
+_Standing: 7-3-2, 16 pts, 12 GP, conf rank 3, streak W3 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
 
 ### Game Recap & Performance
 - [Bottom Six Minutes: Jacob Fowler dominates the Heritage Classic](https://www.habseyesontheprize.com/canadiens-vs-jets-heritage-classic-highlights-score-recap-jacob-fowler-habs-news/) — Habs Eyes on the Prize
-- [2026 Heritage Classic Top Six Minutes: Jacob Fowler leads Montreal’s win over Winnipeg](https://www.habseyesontheprize.com/2026-10-25-heritage-classic-top-six-minutes-score-highlights-3-stars-jacob-fowler-leads-montreals-win-over-winnipeg-lane-hutson-goal-kaiden-guhle-game-winner/) — Habs Eyes on the Prize
-- [Jacob Fowler won’t play tomorrow (despite his impressive shutout last night)](https://www.yardbarker.com/nhl/articles/jacob_fowler_wont_play_tomorrow_despite_his_impressive_shutout_last_night/s1_17387_44485636) — Yardbarker
+- [Canadiens Are Learning to Win the Hard Way on Road Trip](https://www.yardbarker.com/nhl/articles/canadiens_are_learning_to_win_the_hard_way_on_road_trip/s1_16448_44488991) — Yardbarker
 
 ### Trades & Roster Moves
-- [Bolduc breaks a window with a shot, Gally nears the end, and a new contract for McKenna](https://www.yardbarker.com/nhl/articles/bolduc_breaks_a_window_with_a_shot_gally_nears_the_end_and_a_new_contract_for_mckenna/s1_17387_44486133) — Yardbarker
-
-### Injuries & Lineup
-- [Canadiens Practice Report: Jakub Dobes To Start vs Stars; Lineup Changes](https://www.yardbarker.com/nhl/articles/canadiens_practice_report_jakub_dobes_to_start_vs_stars_lineup_changes/s1_17468_44485827) — Yardbarker
+- [Jakub Dobes isn’t cut out to be a second-in-command (and his contract complicates matters)](https://www.yardbarker.com/nhl/articles/jakub_dobes_isnt_cut_out_to_be_a_second_in_command_and_his_contract_complicates_matters/s1_17387_44489491) — Yardbarker
 
 ### Other Habs News
+- [Canadiens @ Stars: Game preview, start time, Tale of the Tape, and how to watch](https://www.habseyesontheprize.com/canadiens-stars-2026-10-29-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/) — Habs Eyes on the Prize
+- [Thursday Habs Headlines: Jacob Fowler rewrites the record books](https://www.habseyesontheprize.com/habs-headlines-jacob-fowler-rewrites-the-record-books-florian-xhekaj-goal-dylan-larken-trade-nhl-salary-cap-battle-of-alberta/) — Habs Eyes on the Prize
 - [Bottom Six Minutes: A statement game from Jacob Fowler](https://www.habseyesontheprize.com/canadiens-vs-blues-highlights-score-recap-jacob-fowler-shutout-habs-news/) — Habs Eyes on the Prize
 - [Wednesday Habs Headlines: Gaining poise](https://www.habseyesontheprize.com/montreal-canadiens-news-lane-hutson-protecting-leads-owen-beck-lineup-spot-jacob-fowler-era-jakub-dobes-backup-alex-newhook-trade-michael-hage-trade-asset/) — Habs Eyes on the Prize
 - [Canadiens @ Blues Top Six Minutes: Jacob Fowler steals a win in St. Louis](https://www.habseyesontheprize.com/canadiens-blues-2026-10-27-top-six-minutes-recap-highlights-3-stars-jacob-fowler-steals-a-win-in-st-louis-florian-xhekaj-first-nhl-goal-zachary-bolduc/) — Habs Eyes on the Prize
 - [Canadiens @ Blues: Game thread, lines, and how to watch](https://www.habseyesontheprize.com/canadiens-blues-2026-10-27-game-thread-lines-and-how-to-watch-tv-listings-online-stream/) — Habs Eyes on the Prize
 - [Canadiens @ Blues: Game preview, start time, Tale of the Tape, and how to watch](https://www.habseyesontheprize.com/canadiens-blues-2026-10-27-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/) — Habs Eyes on the Prize
 - [Tuesday Habs Headlines: Rising Star](https://www.habseyesontheprize.com/habs-headlines-jacob-fowler-continues-to-impress-phillip-danault-invaluable-contributions/) — Habs Eyes on the Prize
-- [Monday Habs Headlines: Old memories at the Heritage Classic](https://www.habseyesontheprize.com/habs-headlines-old-memories-at-the-heritage-classic-winnipeg-jets-martin-st-louis-family-first-jake-evans-blog-nhl-atlantic-division-connor-hellebuyck-zach-werenski/) — Habs Eyes on the Prize
-- [2026 Heritage Classic: Canadiens @ Jets — Game thread, lines, and how to watch](https://www.habseyesontheprize.com/2026-10-25-heritage-classic-canadiens-jets-game-thread-lines-and-how-to-watch-tv-listings-online-stream/) — Habs Eyes on the Prize
 
 
 
