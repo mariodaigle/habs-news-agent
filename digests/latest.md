@@ -1,29 +1,27 @@
-# Habs Digest — 2026-10-29 (evening)
+# Habs Digest — 2026-10-30 (morning)
 
-_Generated 2026-10-29T23:42:42Z_
+_Generated 2026-10-30T16:52:30Z_
 
-_Standing: 7-3-2, 16 pts, 12 GP, conf rank 3, streak W3 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
+_Standing: 8-3-2, 18 pts, 13 GP, conf rank 3, streak W4 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
 
 ### Game Recap & Performance
-- [Bottom Six Minutes: Jacob Fowler dominates the Heritage Classic](https://www.habseyesontheprize.com/canadiens-vs-jets-heritage-classic-highlights-score-recap-jacob-fowler-habs-news/) — Habs Eyes on the Prize
-- [Canadiens Are Learning to Win the Hard Way on Road Trip](https://www.yardbarker.com/nhl/articles/canadiens_are_learning_to_win_the_hard_way_on_road_trip/s1_16448_44488991) — Yardbarker
+- [Laval @ Calgary recap and highlights: Rocket comeback goes for naught out West](https://www.habseyesontheprize.com/laval-calgary-2026-10-29-recap-score-highlights-rocket-comeback-goes-for-naught-out-west-luke-mittelstadt-goal-xavier-simoneau-kaapo-kahkonen-david-reinbacher/) — Habs Eyes on the Prize
+- [Montreal Canadiens Postgame: Habs Win 5-2; Sweep Four-Game Road Trip](https://www.yardbarker.com/nhl/articles/montreal_canadiens_postgame_habs_win_5_2_sweep_four_game_road_trip/s1_17468_44491962) — Yardbarker
+- [Mike Matheson (Lower-Body) Doesn’t Play vs Stars; Arber Xhekaj Draws In](https://www.yardbarker.com/nhl/articles/mike_matheson_lower_body_doesnt_play_vs_stars_arber_xhekaj_draws_in/s1_17468_44491713) — Yardbarker
+- [Mike Matheson won’t be playing tonight](https://www.yardbarker.com/nhl/articles/mike_matheson_wont_be_playing_tonight/s1_17387_44491571) — Yardbarker
 
 ### Trades & Roster Moves
-- [The Canadiens are still not on Dylan Larkin’s list](https://www.yardbarker.com/nhl/articles/the_canadiens_are_still_not_on_dylan_larkins_list/s1_17387_44491405) — Yardbarker
-- [Jakub Dobes isn’t cut out to be a second-in-command (and his contract complicates matters)](https://www.yardbarker.com/nhl/articles/jakub_dobes_isnt_cut_out_to_be_a_second_in_command_and_his_contract_complicates_matters/s1_17387_44489491) — Yardbarker
-
-### Prospects & Laval Rocket (AHL)
-- ['Michael Hage is wasting his time in the NCAA'](https://www.yardbarker.com/nhl/articles/michael_hage_is_wasting_his_time_in_the_ncaa/s1_17387_44490850) — Yardbarker
+- [JiC would trade Michael Hage and Jakub Dobes](https://www.yardbarker.com/nhl/articles/jic_would_trade_michael_hage_and_jakub_dobes/s1_17387_44491508) — Yardbarker
 
 ### Other Habs News
+- [Friday Habs Headlines: The price of business?](https://www.habseyesontheprize.com/montreal-canadiens-news-dylan-larkin-trade-rumours-suspension-michael-hage-hometown-remix-jersey-heritage-classic-martin-st-louis-goalie-tandem-jacob-fowler-jakub-dobes/) — Habs Eyes on the Prize
+- [Canadiens @ Stars Top Six Minutes: Habs sweep road trip with four regulation wins](https://www.habseyesontheprize.com/canadiens-stars-2026-10-29-top-six-minutes-recap-highlights-3-stars-habs-sweep-road-trip-with-four-regulation-wins-alex-newhook-two-goals-cole-caufield-noah-dobson-phillip-danault/) — Habs Eyes on the Prize
 - [Canadiens @ Stars: Game thread, lines, and how to watch](https://www.habseyesontheprize.com/canadiens-stars-2026-10-29-game-thread-lines-and-how-to-watch-tv-listings-online-stream/) — Habs Eyes on the Prize
 - [Canadiens @ Stars: Game preview, start time, Tale of the Tape, and how to watch](https://www.habseyesontheprize.com/canadiens-stars-2026-10-29-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/) — Habs Eyes on the Prize
 - [Thursday Habs Headlines: Jacob Fowler rewrites the record books](https://www.habseyesontheprize.com/habs-headlines-jacob-fowler-rewrites-the-record-books-florian-xhekaj-goal-dylan-larken-trade-nhl-salary-cap-battle-of-alberta/) — Habs Eyes on the Prize
 - [Bottom Six Minutes: A statement game from Jacob Fowler](https://www.habseyesontheprize.com/canadiens-vs-blues-highlights-score-recap-jacob-fowler-shutout-habs-news/) — Habs Eyes on the Prize
 - [Wednesday Habs Headlines: Gaining poise](https://www.habseyesontheprize.com/montreal-canadiens-news-lane-hutson-protecting-leads-owen-beck-lineup-spot-jacob-fowler-era-jakub-dobes-backup-alex-newhook-trade-michael-hage-trade-asset/) — Habs Eyes on the Prize
 - [Canadiens @ Blues Top Six Minutes: Jacob Fowler steals a win in St. Louis](https://www.habseyesontheprize.com/canadiens-blues-2026-10-27-top-six-minutes-recap-highlights-3-stars-jacob-fowler-steals-a-win-in-st-louis-florian-xhekaj-first-nhl-goal-zachary-bolduc/) — Habs Eyes on the Prize
-- [Canadiens @ Blues: Game thread, lines, and how to watch](https://www.habseyesontheprize.com/canadiens-blues-2026-10-27-game-thread-lines-and-how-to-watch-tv-listings-online-stream/) — Habs Eyes on the Prize
-- [Canadiens @ Blues: Game preview, start time, Tale of the Tape, and how to watch](https://www.habseyesontheprize.com/canadiens-blues-2026-10-27-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/) — Habs Eyes on the Prize
 
 
 
