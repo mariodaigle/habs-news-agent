@@ -1,17 +1,17 @@
-# Habs Digest — 2026-10-30 (morning)
+# Habs Digest — 2026-10-30 (evening)
 
-_Generated 2026-10-30T16:52:30Z_
+_Generated 2026-10-30T23:22:21Z_
 
 _Standing: 8-3-2, 18 pts, 13 GP, conf rank 3, streak W4 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
 
 ### Game Recap & Performance
 - [Laval @ Calgary recap and highlights: Rocket comeback goes for naught out West](https://www.habseyesontheprize.com/laval-calgary-2026-10-29-recap-score-highlights-rocket-comeback-goes-for-naught-out-west-luke-mittelstadt-goal-xavier-simoneau-kaapo-kahkonen-david-reinbacher/) — Habs Eyes on the Prize
-- [Montreal Canadiens Postgame: Habs Win 5-2; Sweep Four-Game Road Trip](https://www.yardbarker.com/nhl/articles/montreal_canadiens_postgame_habs_win_5_2_sweep_four_game_road_trip/s1_17468_44491962) — Yardbarker
-- [Mike Matheson (Lower-Body) Doesn’t Play vs Stars; Arber Xhekaj Draws In](https://www.yardbarker.com/nhl/articles/mike_matheson_lower_body_doesnt_play_vs_stars_arber_xhekaj_draws_in/s1_17468_44491713) — Yardbarker
-- [Mike Matheson won’t be playing tonight](https://www.yardbarker.com/nhl/articles/mike_matheson_wont_be_playing_tonight/s1_17387_44491571) — Yardbarker
 
-### Trades & Roster Moves
-- [JiC would trade Michael Hage and Jakub Dobes](https://www.yardbarker.com/nhl/articles/jic_would_trade_michael_hage_and_jakub_dobes/s1_17387_44491508) — Yardbarker
+### Injuries & Lineup
+- [Canadiens Are Finding Ways to Win Without Nick Suzuki](https://www.yardbarker.com/nhl/articles/canadiens_are_finding_ways_to_win_without_nick_suzuki/s1_16448_44494146) — Yardbarker
+
+### Prospects & Laval Rocket (AHL)
+- [AHL Scoring Race: Defensemen Luke Mittelstadt and Tyson Jugnauth Lead the League](https://www.yardbarker.com/nhl/articles/ahl_scoring_race_defensemen_luke_mittelstadt_and_tyson_jugnauth_lead_the_league/s1_17352_44494437) — Yardbarker
 
 ### Other Habs News
 - [Friday Habs Headlines: The price of business?](https://www.habseyesontheprize.com/montreal-canadiens-news-dylan-larkin-trade-rumours-suspension-michael-hage-hometown-remix-jersey-heritage-classic-martin-st-louis-goalie-tandem-jacob-fowler-jakub-dobes/) — Habs Eyes on the Prize
