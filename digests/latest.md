@@ -1,35 +1,31 @@
-# Habs Digest — 2026-11-01 (evening)
+# Habs Digest — 2026-11-02 (morning)
 
-_Generated 2026-11-01T23:14:24Z_
+_Generated 2026-11-02T20:35:05Z_
 
 _Standing: 9-3-2, 20 pts, 14 GP, conf rank 3, streak W5 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
 
 ### Game Recap & Performance
-- [Rocket @ Wranglers recap: Laval scores two short-handed goals to win the Halloween showdown](https://www.habseyesontheprize.com/rocket-wranglers-2026-10-31-recap-score-highlights-short-handed-goals-halloween-showdown-jared-davidson-xavier-simoneau/) — Habs Eyes on the Prize
-- [Laval @ Calgary recap and highlights: Rocket comeback goes for naught out West](https://www.habseyesontheprize.com/laval-calgary-2026-10-29-recap-score-highlights-rocket-comeback-goes-for-naught-out-west-luke-mittelstadt-goal-xavier-simoneau-kaapo-kahkonen-david-reinbacher/) — Habs Eyes on the Prize
-- [Josh Anderson, Canadiens edge Pens for fifth straight win](https://www.yardbarker.com/nhl/articles/josh_anderson_canadiens_edge_pens_for_fifth_straight_win/s1_17050_44500646) — Yardbarker
-- [Montreal Canadiens Sick Postgame: Habs Win their Fifth Straight Game in High-Scoring Affair](https://www.yardbarker.com/nhl/articles/montreal_canadiens_sick_postgame_habs_win_their_fifth_straight_game_in_high_scoring_affair/s1_17468_44499852) — Yardbarker
+- [Montreal Canadiens’ 3 Stars of October](https://www.yardbarker.com/nhl/articles/montreal_canadiens_3_stars_of_october/s1_16448_44506222) — Yardbarker
 
 ### Injuries & Lineup
-- [Jacob Fowler, Rookie of the Month: His stats were sensational](https://www.yardbarker.com/nhl/articles/jacob_fowler_rookie_of_the_month_his_stats_were_sensational/s1_17387_44502574) — Yardbarker
-- [All eight teams in the Atlantic Division have a record above .500](https://www.yardbarker.com/nhl/articles/all_eight_teams_in_the_atlantic_division_have_a_record_above_500/s1_17387_44501773) — Yardbarker
+- [Finally: Gleb Pugachyov scores his first goal of the season](https://www.yardbarker.com/nhl/articles/finally_gleb_pugachyov_scores_his_first_goal_of_the_season/s1_17387_44507186) — Yardbarker
+- [Evans Is the Best, Dach Has to Pay the Price, and Ovechkin’s Season Has Gone Too Far](https://www.yardbarker.com/nhl/articles/evans_is_the_best_dach_has_to_pay_the_price_and_ovechkins_season_has_gone_too_far/s1_17387_44505878) — Yardbarker
 
 ### Prospects & Laval Rocket (AHL)
-- [CH Prospects Shine | Ryan St-Louis Scores His First Pro Goal](https://www.yardbarker.com/nhl/articles/ch_prospects_shine_ryan_st_louis_scores_his_first_pro_goal/s1_17387_44502781) — Yardbarker
+- [Michael Hage: A Five-Point Game That’s Got Everyone Talking](https://www.yardbarker.com/nhl/articles/michael_hage_a_five_point_game_thats_got_everyone_talking/s1_17387_44505565) — Yardbarker
 
 ### Other Habs News
-- [Sunday Habs Headlines: Finding success through unity](https://www.habseyesontheprize.com/habs-headlines-finding-success-through-unity-perfect-road-trip-nick-suzuki-dylan-larkin-nikita-kucherov-tampa-bay-lightning-trade-womens-hockey-championship/) — Habs Eyes on the Prize
-- [Canadiens vs. Penguins Top Six Minutes: Josh Anderson’s three points help Montreal claim two](https://www.habseyesontheprize.com/canadiens-penguins-2026-10-31-top-six-minutes-recap-3-stars-josh-anderson-two-goals-chris-kreider-alexandre-texier-oliver-kapanen-fourth-line-xhekaj-beck/) — Habs Eyes on the Prize
-- [Canadiens vs. Penguins: Game thread, lines, and how to watch](https://www.habseyesontheprize.com/canadiens-penguins-2026-10-31-game-thread-lines-and-how-to-watch-tv-listings-online-stream/) — Habs Eyes on the Prize
-- [Canadiens vs. Penguins: Game preview, start time, Tale of the Tape, and how to watch](https://www.habseyesontheprize.com/canadiens-penguins-2026-10-31-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/) — Habs Eyes on the Prize
-- [Saturday Habs Headlines: Stepping up to the challenge](https://www.habseyesontheprize.com/montreal-canadiens-news-nikita-kucherov-trade-request-dylan-larkin-10-team-list-jacob-fowler-calder-trophy-nick-suzuki-practice-hayden-hodgson-suspension-cas-russia-reinstatement/) — Habs Eyes on the Prize
-- [Friday Habs Headlines: The price of business?](https://www.habseyesontheprize.com/montreal-canadiens-news-dylan-larkin-trade-rumours-suspension-michael-hage-hometown-remix-jersey-heritage-classic-martin-st-louis-goalie-tandem-jacob-fowler-jakub-dobes/) — Habs Eyes on the Prize
-- [Canadiens @ Stars Top Six Minutes: Habs sweep road trip with four regulation wins](https://www.habseyesontheprize.com/canadiens-stars-2026-10-29-top-six-minutes-recap-highlights-3-stars-habs-sweep-road-trip-with-four-regulation-wins-alex-newhook-two-goals-cole-caufield-noah-dobson-phillip-danault/) — Habs Eyes on the Prize
-- [Canadiens @ Stars: Game thread, lines, and how to watch](https://www.habseyesontheprize.com/canadiens-stars-2026-10-29-game-thread-lines-and-how-to-watch-tv-listings-online-stream/) — Habs Eyes on the Prize
+- [No update on Ivan Demidov; the cases of Alex Newhook and David Reinbacher are still pending](https://www.yardbarker.com/nhl/articles/no_update_on_ivan_demidov_the_cases_of_alex_newhook_and_david_reinbacher_are_still_pending/s1_17387_44506836) — Yardbarker
+- [Nick Suzuki Practices With Team In Full Contact Jersey](https://www.yardbarker.com/nhl/articles/nick_suzuki_practices_with_team_in_full_contact_jersey/s1_17468_44506215) — Yardbarker
+- [Nick Suzuki is practicing with the first line | Alex Newhook is on the wing of the fourth line](https://www.yardbarker.com/nhl/articles/nick_suzuki_is_practicing_with_the_first_line_alex_newhook_is_on_the_wing_of_the_fourth_line/s1_17387_44506173) — Yardbarker
+- [Lane Hutson is the 2026 McDonald’s Player of the Year](https://www.yardbarker.com/nhl/articles/lane_hutson_is_the_2026_mcdonalds_player_of_the_year/s1_17387_44505349) — Yardbarker
+- [Jacob Fowler Named Rookie Of The Month](https://www.yardbarker.com/nhl/articles/jacob_fowler_named_rookie_of_the_month/s1_17468_44504800) — Yardbarker
+- [With Dach in Jeopardy, Danault Thanks Evans and Crosby Praises Price](https://www.yardbarker.com/nhl/articles/with_dach_in_jeopardy_danault_thanks_evans_and_crosby_praises_price/s1_17387_44504034) — Yardbarker
 
 
 
 ---
 _Source warnings this run (non-fatal):_
+- parsing Habs Eyes on the Prize: XML syntax error on line 93: element <link> closed by </head>
 - fetching r/Habs: HTTP 403 (reddit's public JSON endpoint is unauthenticated and frequently blocks bots -- this is expected to fail sometimes)
 - Anthropic API error (authentication_error): invalid x-api-key -- check CLAUDE_MODEL is a current model id at docs.anthropic.com/en/docs/about-claude/models
