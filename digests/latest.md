@@ -1,6 +1,6 @@
-# Habs Digest — 2026-11-06 (morning)
+# Habs Digest — 2026-11-06 (evening)
 
-_Generated 2026-11-06T17:44:55Z_
+_Generated 2026-11-06T23:52:56Z_
 
 _Standing: 10-3-3, 23 pts, 16 GP, conf rank 3, streak W1 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
 
@@ -8,7 +8,6 @@ _Standing: 10-3-3, 23 pts, 16 GP, conf rank 3, streak W1 (most recent record on 
 - [Phantoms @ Rocket recap: Filip Mesar’s pair of goals not enough as Laval falls in overtime](https://www.habseyesontheprize.com/phantoms-rocket-2026-11-04-recap-socre-highlights-filip-mesars-pair-of-goals-not-enough-as-laval-falls-in-overtime-david-reinbacher-luke-mittelstadt/) — Habs Eyes on the Prize
 - [Bottom Six Minutes: The Habs embarrass themselves on home ice](https://www.habseyesontheprize.com/habs-jets-comeback-recap-reaction-habs-news/) — Habs Eyes on the Prize
 - [Canadiens vs. Jets Top Six Minutes: Habs blow a 4-0 lead in final three minutes](https://www.habseyesontheprize.com/canadiens-jets-2026-11-03-top-six-minutes-recap-3-stars-jacob-fowler-turns-habs-b-effort-into-a-w-cole-caufield-two-goals-josh-anderson-owen-beck/) — Habs Eyes on the Prize
-- [Canadiens Sick Postgame: Suzuki Returns; Habs Bounce Back, Beat Mammoth 5-4 In OT](https://www.yardbarker.com/nhl/articles/canadiens_sick_postgame_suzuki_returns_habs_bounce_back_beat_mammoth_5_4_in_ot/s1_17468_44522772) — Yardbarker
 
 ### Injuries & Lineup
 - [Canadiens vs. Mammoth: Game thread, lines, and how to watch](https://www.habseyesontheprize.com/canadiens-mammoth-2026-11-05-game-thread-lines-and-how-to-watch-tv-listings-online-stream/) — Habs Eyes on the Prize
@@ -21,8 +20,8 @@ _Standing: 10-3-3, 23 pts, 16 GP, conf rank 3, streak W1 (most recent record on 
 - [Thursday Habs Headlines: Moving forward after historic collapse](https://www.habseyesontheprize.com/habs-headlines-moving-forward-after-historic-collapse-winnipeg-jets-stunning-loss-arber-xhekaj-florian-xhekaj-womens-world-championship-connor-hellebuyck/) — Habs Eyes on the Prize
 - [Montreal Canadiens North American Prospects Report: Michael Hage and Brayden Klimpke come out of the gate running](https://www.habseyesontheprize.com/montreal-canadiens-north-american-prospects-report-2026-11-04-highlights-stats-michael-hage-brayden-klimpke-l-j-mooney-timofei-runtso-hayden-paupanekis-alexis-cournoyer-logan-sawyer-sam-harris/) — Habs Eyes on the Prize
 - [Wednesday Habs Headlines: Stepping up at centre](https://www.habseyesontheprize.com/montreal-canadiens-news-centre-depth-jake-evans-phillip-danault-ivan-demidov-injury-jacob-fowler-jakub-dobes-tandem-luke-mittlestadt-ahl-rookie-of-october-jarome-iginla-health-nikita-kucherov/) — Habs Eyes on the Prize
-- [Dach on the ice, Montembeault gets his chance, and Dobson needs to score](https://www.yardbarker.com/nhl/articles/dach_on_the_ice_montembeault_gets_his_chance_and_dobson_needs_to_score/s1_17387_44524870) — Yardbarker
-- [The Canadiens’ Third Jersey Curse Is Real](https://www.yardbarker.com/nhl/articles/the_canadiens_third_jersey_curse_is_real/s1_16448_44524853) — Yardbarker
+- [Canadiens aim to stay strong against slumping Maple Leafs](https://www.yardbarker.com/nhl/articles/canadiens_aim_to_stay_strong_against_slumping_maple_leafs/s1_17050_44526486) — Yardbarker
+- [Gleb Pugachyov: His season (and his physical condition) are starting to get back on track](https://www.yardbarker.com/nhl/articles/gleb_pugachyov_his_season_and_his_physical_condition_are_starting_to_get_back_on_track/s1_17387_44526230) — Yardbarker
 
 
 
