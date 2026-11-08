@@ -1,37 +1,26 @@
-# Habs Digest — 2026-11-07 (evening)
+# Habs Digest — 2026-11-08 (morning)
 
-_Generated 2026-11-07T23:15:42Z_
+_Generated 2026-11-08T16:51:29Z_
 
-_Standing: 10-3-3, 23 pts, 16 GP, conf rank 3, streak W1 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
+_Standing: 11-3-3, 25 pts, 17 GP, conf rank 3, streak W2 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
 
 ### Game Recap & Performance
-- [Laval vs. Cleveland recap & highlights: An offensive storm by the Rocket bests the Monsters](https://www.habseyesontheprize.com/laval-cleveland-2026-11-06-recap-score-highlights-an-offensive-storm-by-the-rocket-bests-the-monsters-hunter-mckown-goal-of-the-year-candidate-laurent-dauphin/) — Habs Eyes on the Prize
-- [Phantoms @ Rocket recap: Filip Mesar’s pair of goals not enough as Laval falls in overtime](https://www.habseyesontheprize.com/phantoms-rocket-2026-11-04-recap-socre-highlights-filip-mesars-pair-of-goals-not-enough-as-laval-falls-in-overtime-david-reinbacher-luke-mittelstadt/) — Habs Eyes on the Prize
-- [Brett Berard Is Scoring in Laval. But Can He Find a Way Back to Montreal?](https://www.yardbarker.com/nhl/articles/brett_berard_is_scoring_in_laval_but_can_he_find_a_way_back_to_montreal/s1_17758_44529374) — Yardbarker
-- ['The Atlantic on Fire': A Partnership for Fowler and Praise for Price](https://www.yardbarker.com/nhl/articles/the_atlantic_on_fire_a_partnership_for_fowler_and_praise_for_price/s1_17387_44526887) — Yardbarker
-
-### Injuries & Lineup
-- [Saturday Habs Headlines: Ivan Demidov making progress in injury recovery](https://www.habseyesontheprize.com/montreal-canadiens-news-nikita-kucherov-salary-tax-ivan-demidov-injury-update-kent-hughes-cole-caufield-elite-goal-scorer-arber-xhekaj-hardest-shot-carey-price-hall-of-fame-germany-world-championship/) — Habs Eyes on the Prize
-- [Canadiens vs. Mammoth: Game thread, lines, and how to watch](https://www.habseyesontheprize.com/canadiens-mammoth-2026-11-05-game-thread-lines-and-how-to-watch-tv-listings-online-stream/) — Habs Eyes on the Prize
-- [Lariviere: Nick Suzuki Makes Everyone Better On The Canadiens](https://www.yardbarker.com/nhl/articles/lariviere_nick_suzuki_makes_everyone_better_on_the_canadiens/s1_17468_44528917) — Yardbarker
-- [Demidov’s Return Could Force the Canadiens to Make Some Tough Decisions](https://www.yardbarker.com/nhl/articles/demidovs_return_could_force_the_canadiens_to_make_some_tough_decisions/s1_16448_44528565) — Yardbarker
-
-### Prospects & Laval Rocket (AHL)
-- [Rocket: McKown Scores Goal of the Year | Thorpe Mocks Opponent After a Vicious Hit](https://www.yardbarker.com/nhl/articles/rocket_mckown_scores_goal_of_the_year_thorpe_mocks_opponent_after_a_vicious_hit/s1_17387_44528228) — Yardbarker
+- [3 Takeaways From the Canadiens’ 4-2 Win Over the Maple Leafs](https://www.yardbarker.com/nhl/articles/3_takeaways_from_the_canadiens_4_2_win_over_the_maple_leafs/s1_16448_44532656) — Yardbarker
+- [Montreal Canadiens Sick Postgame: Habs Hold On To Beat Leafs 4-2](https://www.yardbarker.com/nhl/articles/montreal_canadiens_sick_postgame_habs_hold_on_to_beat_leafs_4_2/s1_17468_44531112) — Yardbarker
+- [Montreal Candiens Sick Postgame: Habs Hold On To Beat Leafs 4-2](https://www.yardbarker.com/nhl/articles/montreal_candiens_sick_postgame_habs_hold_on_to_beat_leafs_4_2/s1_17468_44531078) — Yardbarker
 
 ### Other Habs News
-- [Canadiens @ Maple Leafs: Game thread, lines, and how to watch](https://www.habseyesontheprize.com/canadiens-maple-leafs-2026-11-07-game-thread-lines-and-how-to-watch-tv-listings-online-stream/) — Habs Eyes on the Prize
-- [Canadiens @ Maple Leafs: Game preview, start time, Tale of the Tape, and how to watch](https://www.habseyesontheprize.com/canadiens-maple-leafs-2026-11-07-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/) — Habs Eyes on the Prize
-- [Friday Habs Headlines: Hands off the panic button](https://www.habseyesontheprize.com/montreal-canadiens-news-winnipeg-jets-loss-stanley-cup-contender-nhl-calder-trophy-race-jacob-fowler-brad-marchand-injury-nikita-kucherov-trade-request-speculation-brock-faber-fractured-skull/) — Habs Eyes on the Prize
-- [Canadiens vs. Mammoth Top Six Minutes: Habs overpower Utah’s man advantage](https://www.habseyesontheprize.com/canadiens-mammoth-2026-11-05-top-six-minutes-recap-3-stars-nick-suzuki-return-cole-caufield-overtime-adam-engstrom-first-nhl-goal/) — Habs Eyes on the Prize
-- [Canadiens vs. Mammoth: Game preview, start time, Tale of the Tape, and how to watch](https://www.habseyesontheprize.com/canadiens-mammoth-2026-11-04-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/) — Habs Eyes on the Prize
-- [Thursday Habs Headlines: Moving forward after historic collapse](https://www.habseyesontheprize.com/habs-headlines-moving-forward-after-historic-collapse-winnipeg-jets-stunning-loss-arber-xhekaj-florian-xhekaj-womens-world-championship-connor-hellebuyck/) — Habs Eyes on the Prize
-- [Carey Price Praises Jacob Fowler (and the 2026-27 Canadiens)](https://www.yardbarker.com/nhl/articles/carey_price_praises_jacob_fowler_and_the_2026_27_canadiens/s1_17387_44530025) — Yardbarker
-- [Xavier Villeneuve wants to be better than Lane Hutson](https://www.yardbarker.com/nhl/articles/xavier_villeneuve_wants_to_be_better_than_lane_hutson/s1_17387_44529832) — Yardbarker
+- [Canadiens’ Jacob Fowler had apple thrown at him during game against Leafs](https://www.yardbarker.com/nhl/articles/canadiens_jacob_fowler_had_apple_thrown_at_him_during_game_against_leafs/s1_16958_44532417) — Yardbarker
+- [The referees handed out an apple and one of the worst penalties of the season to the CH](https://www.yardbarker.com/nhl/articles/the_referees_handed_out_an_apple_and_one_of_the_worst_penalties_of_the_season_to_the_ch/s1_17387_44532410) — Yardbarker
+- [Canadiens Beat Maple Leafs 4-2 as Newhook Scores 2](https://www.yardbarker.com/nhl/articles/canadiens_beat_maple_leafs_4_2_as_newhook_scores_2/s1_17668_44531028) — Yardbarker
+- [Why NHL referee offered Canadiens goalie Jacob Fowler an apple during game](https://www.yardbarker.com/nhl/articles/why_nhl_referee_offered_canadiens_goalie_jacob_fowler_an_apple_during_game/s1_13132_44530927) — Yardbarker
+- [Alex Newhook scores twice; surging Canadiens hold off Maple Leafs](https://www.yardbarker.com/nhl/articles/alex_newhook_scores_twice_surging_canadiens_hold_off_maple_leafs/s1_17050_44530885) — Yardbarker
+- [Report: Montreal Canadiens Expect Hage And Zharovsky By End Of The Season](https://www.yardbarker.com/nhl/articles/report_montreal_canadiens_expect_hage_and_zharovsky_by_end_of_the_season/s1_17468_44530866) — Yardbarker
 
 
 
 ---
 _Source warnings this run (non-fatal):_
+- parsing Habs Eyes on the Prize: XML syntax error on line 93: element <link> closed by </head>
 - fetching r/Habs: HTTP 403 (reddit's public JSON endpoint is unauthenticated and frequently blocks bots -- this is expected to fail sometimes)
 - Anthropic API error (authentication_error): invalid x-api-key -- check CLAUDE_MODEL is a current model id at docs.anthropic.com/en/docs/about-claude/models
