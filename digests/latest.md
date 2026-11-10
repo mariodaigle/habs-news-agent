@@ -1,6 +1,6 @@
-# Habs Digest — 2026-11-09 (morning)
+# Habs Digest — 2026-11-09 (evening)
 
-_Generated 2026-11-09T21:11:49Z_
+_Generated 2026-11-10T02:28:02Z_
 
 _Standing: 11-3-3, 25 pts, 17 GP, conf rank 4, streak W2 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
 
@@ -8,7 +8,7 @@ _Standing: 11-3-3, 25 pts, 17 GP, conf rank 4, streak W2 (most recent record on 
 - [Laval vs. Cleveland recap & highlights: An offensive storm by the Rocket bests the Monsters](https://www.habseyesontheprize.com/laval-cleveland-2026-11-06-recap-score-highlights-an-offensive-storm-by-the-rocket-bests-the-monsters-hunter-mckown-goal-of-the-year-candidate-laurent-dauphin/) — Habs Eyes on the Prize
 
 ### Trades & Roster Moves
-- [Canadiens’ Deep Prospect Pool Changes the Trade Market Math](https://www.yardbarker.com/nhl/articles/canadiens_deep_prospect_pool_changes_the_trade_market_math/s1_16448_44537712) — Yardbarker
+- [The Canadiens’ rivals in the race for Simon Edvinsson](https://www.yardbarker.com/nhl/articles/the_canadiens_rivals_in_the_race_for_simon_edvinsson/s1_17387_44539888) — Yardbarker
 
 ### Injuries & Lineup
 - [Sunday Habs Headlines: Questions emerging over Ivan Demidov’s injury](https://www.habseyesontheprize.com/habs-headlines-questions-emerging-over-ivan-demidovs-injury-carey-price-hockey-hall-of-fame-iihf-russia-winnipeg-jets-pittsburgh-penguins-trade/) — Habs Eyes on the Prize
@@ -23,7 +23,7 @@ _Standing: 11-3-3, 25 pts, 17 GP, conf rank 4, streak W2 (most recent record on 
 - [Canadiens @ Maple Leafs: Game thread, lines, and how to watch](https://www.habseyesontheprize.com/canadiens-maple-leafs-2026-11-07-game-thread-lines-and-how-to-watch-tv-listings-online-stream/) — Habs Eyes on the Prize
 - [Canadiens @ Maple Leafs: Game preview, start time, Tale of the Tape, and how to watch](https://www.habseyesontheprize.com/canadiens-maple-leafs-2026-11-07-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/) — Habs Eyes on the Prize
 - [Friday Habs Headlines: Hands off the panic button](https://www.habseyesontheprize.com/montreal-canadiens-news-winnipeg-jets-loss-stanley-cup-contender-nhl-calder-trophy-race-jacob-fowler-brad-marchand-injury-nikita-kucherov-trade-request-speculation-brock-faber-fractured-skull/) — Habs Eyes on the Prize
-- [Carey Price Left More Than Memories with the Canadiens](https://www.yardbarker.com/nhl/articles/carey_price_left_more_than_memories_with_the_canadiens/s1_16454_44538938) — Yardbarker
+- [Lariviere: Kaiden Guhle Becoming A Leader On The Canadiens Blueline](https://www.yardbarker.com/nhl/articles/lariviere_kaiden_guhle_becoming_a_leader_on_the_canadiens_blueline/s1_17468_44539687) — Yardbarker
 
 
 
