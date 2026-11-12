@@ -1,20 +1,15 @@
-# Habs Digest — 2026-11-11 (morning)
+# Habs Digest — 2026-11-11 (evening)
 
-_Generated 2026-11-11T18:12:40Z_
+_Generated 2026-11-12T01:44:21Z_
 
 _Standing: 11-3-4, 26 pts, 18 GP, conf rank 3, streak OT1 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
 
-### Game Recap & Performance
-- [Canadiens Sick Postgame: Price Honoured, But Wild Beat Habs 2-1 in OT](https://www.yardbarker.com/nhl/articles/canadiens_sick_postgame_price_honoured_but_wild_beat_habs_2_1_in_ot/s1_17468_44545418) — Yardbarker
-
 ### Trades & Roster Moves
-- [The False Rumor About Ivan Demidov, the Ultimate Fan, and Kirby Dach’s Future](https://www.yardbarker.com/nhl/articles/the_false_rumor_about_ivan_demidov_the_ultimate_fan_and_kirby_dachs_future/s1_17387_44543945) — Yardbarker
+- [The Flyers don’t want to trade Michkov, Zharovsky (the goon), and the Laine brothers to New York](https://www.yardbarker.com/nhl/articles/the_flyers_dont_want_to_trade_michkov_zharovsky_the_goon_and_the_laine_brothers_to_new_york/s1_17387_44549286) — Yardbarker
 
 ### Injuries & Lineup
 - [Sunday Habs Headlines: Questions emerging over Ivan Demidov’s injury](https://www.habseyesontheprize.com/habs-headlines-questions-emerging-over-ivan-demidovs-injury-carey-price-hockey-hall-of-fame-iihf-russia-winnipeg-jets-pittsburgh-penguins-trade/) — Habs Eyes on the Prize
-- [The Canadiens Have a Power Play Problem](https://www.yardbarker.com/nhl/articles/the_canadiens_have_a_power_play_problem/s1_16448_44547300) — Yardbarker
-- [Canadiens’ Youth Depth Is an Enviable Problem](https://www.yardbarker.com/nhl/articles/canadiens_youth_depth_is_an_enviable_problem/s1_16448_44547297) — Yardbarker
-- [Samuel Montembeault in Laval Soon: It’s Possible (and Here’s Why)](https://www.yardbarker.com/nhl/articles/samuel_montembeault_in_laval_soon_its_possible_and_heres_why/s1_17387_44543573) — Yardbarker
+- [Montreal Canadiens Practice Report: Matheson Back, Therapy Days For Suzuki and Evans](https://www.yardbarker.com/nhl/articles/montreal_canadiens_practice_report_matheson_back_therapy_days_for_suzuki_and_evans/s1_17468_44548253) — Yardbarker
 
 ### Other Habs News
 - [Bottom Six Minutes: Can any NHL officials explain this?](https://www.habseyesontheprize.com/montreal-canadiens-nhl-officiating-refs-habs-news/) — Habs Eyes on the Prize
