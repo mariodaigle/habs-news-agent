@@ -1,37 +1,38 @@
-# Habs Digest — 2026-11-15 (evening)
+# Habs Digest — 2026-11-16 (morning)
 
-_Generated 2026-11-15T23:39:15Z_
+_Generated 2026-11-16T20:44:44Z_
 
 _Standing: 12-4-4, 28 pts, 20 GP, conf rank 4, streak L1 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
 
 ### Game Recap & Performance
 - [Laval @ Rochester recap: Sasha Pastujov hat trick not enough as Laval falls in overtime](https://www.habseyesontheprize.com/laval-rochester-2026-11-14-recap-score-highlights-sasha-pastujov-hat-trick-not-enough-as-laval-falls-in-overtime-luke-mittelstadt/) — Habs Eyes on the Prize
-- [A Look at the CH’s Prospects: Michael Hage Is at the Top of the NCAA](https://www.yardbarker.com/nhl/articles/a_look_at_the_chs_prospects_michael_hage_is_at_the_top_of_the_ncaa/s1_17387_44564752) — Yardbarker
 
 ### Trades & Roster Moves
-- [The Trade-Off Canadiens and Josh Anderson Could Make on a New Contract](https://www.yardbarker.com/nhl/articles/the_trade_off_canadiens_and_josh_anderson_could_make_on_a_new_contract/s1_16454_44564764) — Yardbarker
+- [Montreal Canadiens recall Brett Berard from Laval Rocket](https://www.habseyesontheprize.com/montreal-canadiens-recall-brett-berard-from-laval-rocket/) — Habs Eyes on the Prize
+- [Noah Dobson: 55 games without a goal (and it’s starting to become a problem)](https://www.yardbarker.com/nhl/articles/noah_dobson_55_games_without_a_goal_and_its_starting_to_become_a_problem/s1_17387_44569986) — Yardbarker
 
 ### Injuries & Lineup
 - [David Reinbacher recalled by Montreal Canadiens, Josh Anderson placed on IR](https://www.habseyesontheprize.com/david-reinbacher-recalled-by-montreal-canadiens-josh-anderson-placed-on-ir-mike-matheson-samuel-montembeault-ivan-demidov/) — Habs Eyes on the Prize
 - [Canadiens vs. Avalanche: Game thread, lines, and how to watch](https://www.habseyesontheprize.com/canadiens-avalanche-2026-11-14-game-thread-lines-and-how-to-watch-tv-listings-online-stream/) — Habs Eyes on the Prize
 - [Chris Kreider out 6-8 weeks with lower body injury](https://www.habseyesontheprize.com/chris-kreider-out-6-8-weeks-with-lower-body-injury-montreal-canadiens-habs/) — Habs Eyes on the Prize
-- [Josh Anderson will be out for three to four weeks](https://www.yardbarker.com/nhl/articles/josh_anderson_will_be_out_for_three_to_four_weeks/s1_17387_44566125) — Yardbarker
-- [Canadiens Injury Updates: Josh Anderson On IR, Reinbacher Called Up](https://www.yardbarker.com/nhl/articles/canadiens_injury_updates_josh_anderson_on_ir_reinbacher_called_up/s1_17468_44565771) — Yardbarker
-- [Canadiens Recall David Reinbacher; Place Josh Anderson On IR](https://www.yardbarker.com/nhl/articles/canadiens_recall_david_reinbacher_place_josh_anderson_on_ir/s1_14825_44565470) — Yardbarker
-- [Injured Canadiens They’ve Missed the Most in 2026-27](https://www.yardbarker.com/nhl/articles/injured_canadiens_theyve_missed_the_most_in_2026_27/s1_16448_44564741) — Yardbarker
+- [CH vs. Rangers: Fowler Will Start | A Change on Offense](https://www.yardbarker.com/nhl/articles/ch_vs_rangers_fowler_will_start_a_change_on_offense/s1_17387_44569344) — Yardbarker
+- [Canadiens Continue to Be Tested as Injuries Pile Up](https://www.yardbarker.com/nhl/articles/canadiens_continue_to_be_tested_as_injuries_pile_up/s1_16448_44569136) — Yardbarker
+- [Canadiens Recall Brett Berard](https://www.yardbarker.com/nhl/articles/canadiens_recall_brett_berard/s1_14825_44568528) — Yardbarker
+- [Mike Matheson Injured (Again): This Raises Some Questions](https://www.yardbarker.com/nhl/articles/mike_matheson_injured_again_this_raises_some_questions/s1_17387_44568337) — Yardbarker
+- [Brett Berard Recalled by the Canadiens](https://www.yardbarker.com/nhl/articles/brett_berard_recalled_by_the_canadiens/s1_17387_44568177) — Yardbarker
 
 ### Prospects & Laval Rocket (AHL)
-- [David Reinbacher Recalled by the Canadiens](https://www.yardbarker.com/nhl/articles/david_reinbacher_recalled_by_the_canadiens/s1_17387_44564865) — Yardbarker
+- [Three more points today: Alexander Zharovsky is on a tear in the KHL](https://www.yardbarker.com/nhl/articles/three_more_points_today_alexander_zharovsky_is_on_a_tear_in_the_khl/s1_17387_44569272) — Yardbarker
 
 ### Other Habs News
+- [Canadiens @ Rangers: Game preview, start time, Tale of the Tape, and how to watch](https://www.habseyesontheprize.com/canadiens-rangers-2026-11-16game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings-sportsnet-plus-subscription/) — Habs Eyes on the Prize
+- [Monday Habs Headlines: David Reinbacher feels well-prepared for his promotion](https://www.habseyesontheprize.com/montreal-canadiens-news-david-reinbacher-recall-lane-hutson-power-play-comments-rangers-100-years-centennial-connor-mcdavid-assist-record-wayne-gretzky-cutter-guathier-goal-streak-iihf-russia-ban/) — Habs Eyes on the Prize
 - [The Dispatch: Rögle coach Dan Tangnes talks about rival prospects Luc Koblar and Nils Bartholdsson](https://www.habseyesontheprize.com/the-dispatch-podcast-rogle-coach-dan-tangnes-talks-about-rival-prospects-luc-koblar-and-nils-bartholdsson-shl-toronto-maple-leafs-boston-bruins/) — Habs Eyes on the Prize
 - [Sunday Habs Headlines: A three-goalie rotation looms again](https://www.habseyesontheprize.com/habs-headlines-the-case-for-raising-a-banner-for-carey-price-chris-kreider-injury-sam-montembeault-nhl-quarter-mark-toronto-maple-leafs-season-rick-bowness-columbus-blue-jackets/) — Habs Eyes on the Prize
 - [Canadiens vs. Avalanche Top Six Minutes: A lacklustre effort ends the point streak at 12](https://www.habseyesontheprize.com/canadiens-avalanche-2026-11-14-top-six-minutes-recap-3-stars-nick-suzuki-goal-alex-newhook-high-stick-review-jakub-dobes/) — Habs Eyes on the Prize
-- [Canadiens vs. Avalanche: Game preview, start time, Tale of the Tape, and how to watch](https://www.habseyesontheprize.com/canadiens-avalanche-2026-11-14-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/) — Habs Eyes on the Prize
-- [Saturday Habs Headlines: Kirby Dach finding his form](https://www.habseyesontheprize.com/montreal-canadiens-news-kirby-dach-josh-anderson-30-goals-alexandre-carrier-trust-martin-st-louis-carey-price-jersey-retirement-michael-hage-texas-nhl-expansion/) — Habs Eyes on the Prize
-- [Friday Habs Headlines: Is Jacob Fowler the future?](https://www.habseyesontheprize.com/montreal-canadiens-news-jacob-fowler-future-starter-habs-legends-arber-xhekaj-penalties-luke-mittlelstadt-casey-underrated-vladislav-tretiak-russia-canada-quinn-hughes-minnesota-wild/) — Habs Eyes on the Prize
-- [Lane Hutson misses Ivan Demidov](https://www.yardbarker.com/nhl/articles/lane_hutson_misses_ivan_demidov/s1_17387_44565854) — Yardbarker
-- [The Bell Centre is far from being an advantage for the Habs this season](https://www.yardbarker.com/nhl/articles/the_bell_centre_is_far_from_being_an_advantage_for_the_habs_this_season/s1_17387_44565110) — Yardbarker
+- [Fantasy Hockey 2026-27: Weekly Strength of Schedule and Streaming Targets — Week 8](https://www.yardbarker.com/nhl/articles/fantasy_hockey_2026_27_weekly_strength_of_schedule_and_streaming_targets_week_8/s1_16958_44569647) — Yardbarker
+- [Jacob Fowler had dinner with an old friend last night in New York](https://www.yardbarker.com/nhl/articles/jacob_fowler_had_dinner_with_an_old_friend_last_night_in_new_york/s1_17387_44568649) — Yardbarker
+- [Rangers on the rise while Canadiens aim to begin new streak](https://www.yardbarker.com/nhl/articles/rangers_on_the_rise_while_canadiens_aim_to_begin_new_streak/s1_17050_44566649) — Yardbarker
 
 
 
