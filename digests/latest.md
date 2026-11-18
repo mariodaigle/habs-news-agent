@@ -1,6 +1,6 @@
-# Habs Digest — 2026-11-17 (morning)
+# Habs Digest — 2026-11-17 (evening)
 
-_Generated 2026-11-17T19:29:18Z_
+_Generated 2026-11-18T01:57:33Z_
 
 _Standing: 12-5-4, 28 pts, 21 GP, conf rank 5, streak L2 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
 
@@ -14,7 +14,7 @@ _Standing: 12-5-4, 28 pts, 21 GP, conf rank 5, streak L2 (most recent record on 
 
 ### Injuries & Lineup
 - [David Reinbacher recalled by Montreal Canadiens, Josh Anderson placed on IR](https://www.habseyesontheprize.com/david-reinbacher-recalled-by-montreal-canadiens-josh-anderson-placed-on-ir-mike-matheson-samuel-montembeault-ivan-demidov/) — Habs Eyes on the Prize
-- [Brutal report on Ivan Demidov’s injury appears to be inaccurate](https://www.yardbarker.com/nhl/articles/brutal_report_on_ivan_demidovs_injury_appears_to_be_inaccurate/s1_16454_44571097) — Yardbarker
+- [Lariviere: Anderson and Kreider Injuries Already Affecting The Montreal Canadiens](https://www.yardbarker.com/nhl/articles/lariviere_anderson_and_kreider_injuries_already_affecting_the_montreal_canadiens/s1_17468_44577751) — Yardbarker
 
 ### Other Habs News
 - [Bottom Six Minutes: The Habs’ power play is a problem again](https://www.habseyesontheprize.com/bottom-six-minutes-the-habs-power-play-is-a-problem-again/) — Habs Eyes on the Prize
@@ -24,7 +24,7 @@ _Standing: 12-5-4, 28 pts, 21 GP, conf rank 5, streak L2 (most recent record on 
 - [Canadiens @ Rangers: Game thread, lines, and how to watch](https://www.habseyesontheprize.com/canadiens-rangers-2026-11-16-game-thread-lines-and-how-to-watch-tv-listings-online-stream/) — Habs Eyes on the Prize
 - [Canadiens @ Rangers: Game preview, start time, Tale of the Tape, and how to watch](https://www.habseyesontheprize.com/canadiens-rangers-2026-11-16game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings-sportsnet-plus-subscription/) — Habs Eyes on the Prize
 - [Monday Habs Headlines: David Reinbacher feels well-prepared for his promotion](https://www.habseyesontheprize.com/montreal-canadiens-news-david-reinbacher-recall-lane-hutson-power-play-comments-rangers-100-years-centennial-connor-mcdavid-assist-record-wayne-gretzky-cutter-guathier-goal-streak-iihf-russia-ban/) — Habs Eyes on the Prize
-- [Alexandre Texier did not participate in today’s practice](https://www.yardbarker.com/nhl/articles/alexandre_texier_did_not_participate_in_todays_practice/s1_17387_44576353) — Yardbarker
+- [A.N.: 'St-Louis reportedly told Kreider to take Slafkovský’s spot last night'](https://www.yardbarker.com/nhl/articles/an_st_louis_reportedly_told_kreider_to_take_slafkovsks_spot_last_night/s1_17387_44578320) — Yardbarker
 
 
 
