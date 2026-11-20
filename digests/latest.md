@@ -1,24 +1,23 @@
-# Habs Digest — 2026-11-19 (morning)
+# Habs Digest — 2026-11-19 (evening)
 
-_Generated 2026-11-19T19:15:46Z_
+_Generated 2026-11-20T01:32:05Z_
 
 _Standing: 13-5-4, 30 pts, 22 GP, conf rank 5, streak W1 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
 
 ### Game Recap & Performance
 - [Laval @ Belleville recap: Early four-goal lead proves insurmountable as Rocket win matinée](https://www.habseyesontheprize.com/laval-rocket-belleville-senators-2026-11-18-recap-score-highlights-early-four-goal-lead-proves-insurmountable-as-rocket-win-matinee-game/) — Habs Eyes on the Prize
 - [3 Takeaways From the Canadiens’ 3-2 Win Over the Devils](https://www.yardbarker.com/nhl/articles/3_takeaways_from_the_canadiens_3_2_win_over_the_devils/s1_16448_44586522) — Yardbarker
-- [Canadiens Sick Postgame: Habs Get Gutsy 3-2 Win Over Devils](https://www.yardbarker.com/nhl/articles/canadiens_sick_postgame_habs_get_gutsy_3_2_win_over_devils/s1_17468_44584703) — Yardbarker
 
 ### Trades & Roster Moves
 - [Canadiens’ Arber Xhekaj’s Evolution from Sheriff to Reliable Staple](https://www.yardbarker.com/nhl/articles/canadiens_arber_xhekajs_evolution_from_sheriff_to_reliable_staple/s1_16448_44587567) — Yardbarker
 - [Noah Dobson Has Yet to Meet Expectations With the Canadiens](https://www.yardbarker.com/nhl/articles/noah_dobson_has_yet_to_meet_expectations_with_the_canadiens/s1_16448_44586523) — Yardbarker
 
 ### Injuries & Lineup
+- [Canadiens @ Hurricanes: Game thread, lines, and how to watch](https://www.habseyesontheprize.com/canadiens-hurricanes-2026-11-19-game-thread-lines-and-how-to-watch-tv-listings-online-stream/) — Habs Eyes on the Prize
+- [David Reinbacher will be left out again tonight](https://www.yardbarker.com/nhl/articles/david_reinbacher_will_be_left_out_again_tonight/s1_17387_44588952) — Yardbarker
+- [Mike Matheson: A (major) update on his injury](https://www.yardbarker.com/nhl/articles/mike_matheson_a_major_update_on_his_injury/s1_17387_44588681) — Yardbarker
 - [Zachary Bolduc will not play tonight](https://www.yardbarker.com/nhl/articles/zachary_bolduc_will_not_play_tonight/s1_17387_44587200) — Yardbarker
 - [Salary cap: If Zachary Bolduc gets injured, the Canadiens will be in trouble](https://www.yardbarker.com/nhl/articles/salary_cap_if_zachary_bolduc_gets_injured_the_canadiens_will_be_in_trouble/s1_17387_44586651) — Yardbarker
-
-### Prospects & Laval Rocket (AHL)
-- [Rookie Jacob Fowler still rolling right along in Canadiens net](https://www.yardbarker.com/nhl/articles/rookie_jacob_fowler_still_rolling_right_along_in_canadiens_net/s1_13132_44584609) — Yardbarker
 
 ### Other Habs News
 - [Canadiens @ Hurricanes: Game preview, start time, Tale of the Tape, and how to watch](https://www.habseyesontheprize.com/canadiens-hurricanes-2026-11-19-game-preview-start-time-tale-of-the-tape-and-how-to-watch-tv-listings/) — Habs Eyes on the Prize
