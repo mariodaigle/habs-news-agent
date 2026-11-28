@@ -1,23 +1,23 @@
-# Habs Digest — 2026-11-27 (morning)
+# Habs Digest — 2026-11-27 (evening)
 
-_Generated 2026-11-27T19:43:51Z_
+_Generated 2026-11-28T02:23:10Z_
 
-_Standing: 14-8-4, 32 pts, 26 GP, conf rank 5, streak L3 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
+_Standing: 14-8-4, 32 pts, 26 GP, conf rank 6, streak L3 (most recent record on file -- may be last completed season's final if the new season hasn't started yet; cross-check the date)_
 
 ### Game Recap & Performance
 - [Canadiens vs. Kings: Game thread, lines, and how to watch](https://www.habseyesontheprize.com/canadiens-kings-2026-11-23-game-thread-lines-and-how-to-watch-tv-listings-online-stream/) — Habs Eyes on the Prize
-- [Canadiens Now Forced to Rush Reinbacher with Guhle Out](https://www.yardbarker.com/nhl/articles/canadiens_now_forced_to_rush_reinbacher_with_guhle_out/s1_16448_44626172) — Yardbarker
 
 ### Trades & Roster Moves
+- [Cole Caufield dreams of playing with Nikita Kucherov (who happens to be linked to the CH)](https://www.yardbarker.com/nhl/articles/cole_caufield_dreams_of_playing_with_nikita_kucherov_who_happens_to_be_linked_to_the_ch/s1_17387_44628339) — Yardbarker
 - [Is Patrik Laine’s NHL Career Over? Injury Update Not Good](https://www.yardbarker.com/nhl/articles/is_patrik_laines_nhl_career_over_injury_update_not_good/s1_16454_44626788) — Yardbarker
 
 ### Injuries & Lineup
 - [Montreal Canadiens recall David Reinbacher, Brett Berard for road trip; Matheson to LTIR](https://www.habseyesontheprize.com/montreal-canadiens-recall-david-reinbacher-brett-berard-for-road-trip-habs-matheson-ltir-salary-cap/) — Habs Eyes on the Prize
+- [Canadiens Update: Ivan Demidov Practices With Team, New Lines](https://www.yardbarker.com/nhl/articles/canadiens_update_ivan_demidov_practices_with_team_new_lines/s1_17468_44628380) — Yardbarker
 - [GTA VI: A Wild Theory to Explain the Canadian’s Struggles](https://www.yardbarker.com/nhl/articles/gta_vi_a_wild_theory_to_explain_the_canadians_struggles/s1_17387_44626537) — Yardbarker
 
 ### Prospects & Laval Rocket (AHL)
 - [5 Canadiens Prospects Who Could Represent Their Country at the World Juniors](https://www.yardbarker.com/nhl/articles/5_canadiens_prospects_who_could_represent_their_country_at_the_world_juniors/s1_16448_44626608) — Yardbarker
-- [A teammate of Alexander Zharovsky is impressed by his talent](https://www.yardbarker.com/nhl/articles/a_teammate_of_alexander_zharovsky_is_impressed_by_his_talent/s1_17387_44624839) — Yardbarker
 
 ### Other Habs News
 - [Friday Habs Headlines: Stopping the skid](https://www.habseyesontheprize.com/montreal-canadiens-news-kaiden-guhle-injury-dylan-larkin-trade-destination-jeff-gorton-ivan-demidov-return-bryce-pickford-samuel-montembeault-stanley-cup-anaheim-ducks-core-four/) — Habs Eyes on the Prize
